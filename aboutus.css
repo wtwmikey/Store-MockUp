@@ -1,0 +1,53 @@
+h1 {
+    font-family: 'Poppins',sans-serif;
+    color: aliceblue;
+    text-shadow: 2px 1px 8px rgba(0, 0, 0, 0.918);
+}
+
+.cart{
+    color: aliceblue;
+    text-shadow: 2px 1px 8px rgba(0, 0, 0, 0.918);
+    
+}
+
+.links a {
+    text-decoration: none;
+    font-family: 'Poppins',sans-serif;
+    color: aliceblue;
+    text-shadow: 2px 1px 5px rgba(0, 0, 0, 0.918);
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 25px; /* Specify a height */
+    width: 100%; /* Specify a width */
+}
+
+body {
+    font-family: 'Poppins',sans-serif;
+    background: url(back3.png) no-repeat center center fixed;
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.486);
+    margin: 50px;
+    padding: 10px;
+    line-height: 25px;
+    border-radius: 5px;
+    color: rgba(255, 255, 255, 0.808);
+    font-size: 15px;
+    text-align: center;
+    align-items: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    box-shadow: rgba(0, 0, 0, 0.555) 0px 25px 50px -12px;
+    border: 2px solid rgba(0, 0, 0, 0.438);
+    max-width: 90%;
+}
