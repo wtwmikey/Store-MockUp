@@ -9,8 +9,6 @@ h1 {
     padding: 0;
     color: aliceblue;
     text-shadow: 2px 1px 8px rgba(0, 0, 0, 0.918);
-    display: flex;
-    justify-content: right; /* Center horizontally */
 }
 
 .links a {
