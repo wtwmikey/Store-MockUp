@@ -4,6 +4,11 @@ h1 {
     text-shadow: 2px 1px 8px rgba(0, 0, 0, 0.918);
 }
 
+.zayPic {
+    padding: 5px;
+    margin: 5px;
+}
+
 .cart{
     color: aliceblue;
     text-shadow: 2px 1px 8px rgba(0, 0, 0, 0.918);
